@@ -1,9 +1,11 @@
 body {
   font-family: Arial;
+  padding: 5vh 10vw
 }
 
 h1 {
   font-size: 2vh;
+  text-align: center;
 }
 p {
   font-size:1vh;
